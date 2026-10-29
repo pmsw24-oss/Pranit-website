@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pranit Lanjewar",
+    "section": "",
+    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker specialized in adult mental health and trauma informed practice care. Most of my professional experience has been working with homelessness, mental health, healthcare, community practice for change, and social work academia.\nI aim to pursue Ph.D in the near future and research intentionally in mental health and cancer. I have so many hobbies that take president seasonly such as biking, writing, walking and running, cooking, reading, gaming, being social, doing roadtrips, etc."
+  },
+  {
+    "objectID": "index.html#welcome-to-website",
+    "href": "index.html#welcome-to-website",
+    "title": "Pranit Lanjewar",
+    "section": "",
+    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker specialized in adult mental health and trauma informed practice care. Most of my professional experience has been working with homelessness, mental health, healthcare, community practice for change, and social work academia.\nI aim to pursue Ph.D in the near future and research intentionally in mental health and cancer. I have so many hobbies that take president seasonly such as biking, writing, walking and running, cooking, reading, gaming, being social, doing roadtrips, etc."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Pranit Lanjewar",
+    "section": "Education",
+    "text": "Education\nMasters of Social Work (MSW)"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Pranit Lanjewar",
+    "section": "Publications",
+    "text": "Publications\n\nAn International Approach to Homelessness – Part 1: The Case of India\nAn International Approach to Homelessness – Part 2: Slum Demolition or Upgrading?\n\n\nfile.create(\".nojekyll\")\n\n[1] TRUE\n\n\n\nfile.create(\"docs/.nojekyll\")\n\n[1] TRUE"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
