@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Pranit Lanjewar",
+    "title": "Pranit Lanjewar, MSW, LSW",
     "section": "",
-    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker specialized in adult mental health and trauma informed practice care. Most of my professional experience has been working with homelessness, mental health, healthcare, community practice for change, and social work academia.\nI aim to pursue Ph.D in the near future and research intentionally in mental health and cancer. I have so many hobbies that take president seasonly such as biking, writing, walking and running, cooking, reading, gaming, being social, doing roadtrips, etc."
+    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker, specialized in adult mental health and trauma-informed care. Most of my professional experience has involved homelessness, mental health, healthcare, community-based practice for social change, and social work academia.\nI aim to pursue a Ph.D. in the near future, with a research focus on mental health and cancer. I also have many hobbies that change with the seasons, including biking, writing, walking, running, cooking, reading, gaming, socializing, and going on road trips."
   },
   {
     "objectID": "index.html#welcome-to-website",
     "href": "index.html#welcome-to-website",
-    "title": "Pranit Lanjewar",
+    "title": "Pranit Lanjewar, MSW, LSW",
     "section": "",
-    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker specialized in adult mental health and trauma informed practice care. Most of my professional experience has been working with homelessness, mental health, healthcare, community practice for change, and social work academia.\nI aim to pursue Ph.D in the near future and research intentionally in mental health and cancer. I have so many hobbies that take president seasonly such as biking, writing, walking and running, cooking, reading, gaming, being social, doing roadtrips, etc."
+    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker, specialized in adult mental health and trauma-informed care. Most of my professional experience has involved homelessness, mental health, healthcare, community-based practice for social change, and social work academia.\nI aim to pursue a Ph.D. in the near future, with a research focus on mental health and cancer. I also have many hobbies that change with the seasons, including biking, writing, walking, running, cooking, reading, gaming, socializing, and going on road trips."
   },
   {
     "objectID": "index.html#education",
@@ -25,13 +25,83 @@
     "href": "index.html#publications",
     "title": "Pranit Lanjewar",
     "section": "Publications",
-    "text": "Publications\n\nAn International Approach to Homelessness – Part 1: The Case of India\nAn International Approach to Homelessness – Part 2: Slum Demolition or Upgrading?\n\n\nfile.create(\".nojekyll\")\n\n[1] TRUE\n\n\n\nfile.create(\"docs/.nojekyll\")\n\n[1] TRUE"
+    "text": "Publications\n\nAn International Approach to Homelessness – Part 1: The Case of India\nAn International Approach to Homelessness – Part 2: Slum Demolition or Upgrading?"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker, specialized in adult mental health and trauma-informed care. Most of my professional experience has involved homelessness, mental health, healthcare, community-based practice for social change, and social work academia.\nI aim to pursue a Ph.D. in the near future, with a research focus on mental health and cancer. I also have many hobbies that change with the seasons, including biking, writing, walking, running, cooking, reading, gaming, socializing, and going on road trips."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I’m Pranit Lanjewar. I am a licensed social worker specializing in adult mental health and trauma-informed care. Most of my professional experience has involved homelessness, mental health, healthcare, community-based practice for social change, and social work academia.\nI aim to pursue a Ph.D. in the near future, with a research focus on mental health and cancer. I also have many hobbies that change with the seasons, including biking, writing, walking, running, cooking, reading, gaming, socializing, and going on road trips."
+  },
+  {
+    "objectID": "about.html#i-aim-to-pursue-a-ph.d.-in-the-near-future-with-a-research-focus-on-mental-health-and-cancer.-i-also-have-many-hobbies-that-change-with-the-seasons-including-biking-writing-walking-running-cooking-reading-gaming-socializing-and-going-on-road-trips.",
+    "href": "about.html#i-aim-to-pursue-a-ph.d.-in-the-near-future-with-a-research-focus-on-mental-health-and-cancer.-i-also-have-many-hobbies-that-change-with-the-seasons-including-biking-writing-walking-running-cooking-reading-gaming-socializing-and-going-on-road-trips.",
+    "title": "About",
+    "section": "I aim to pursue a Ph.D. in the near future, with a research focus on mental health and cancer. I also have many hobbies that change with the seasons, including biking, writing, walking, running, cooking, reading, gaming, socializing, and going on road trips.",
+    "text": "I aim to pursue a Ph.D. in the near future, with a research focus on mental health and cancer. I also have many hobbies that change with the seasons, including biking, writing, walking, running, cooking, reading, gaming, socializing, and going on road trips."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and Credentials",
+    "section": "",
+    "text": "Licensed Social Worker (LSW)\n\n\n\nMaster of Social Work (MSW)\nArea of Specialization: - Adult Mental Health - Healthcare - Trauma-Informed Care\nBachelor of Business Administration\nArea of Specialization: - Aviation - Travel and Tourism - Hospitality Management"
+  },
+  {
+    "objectID": "education.html#professional-license",
+    "href": "education.html#professional-license",
+    "title": "Education and Credentials",
+    "section": "",
+    "text": "Licensed Social Worker (LSW)"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Education and Credentials",
+    "section": "",
+    "text": "Master of Social Work (MSW)\nArea of Specialization: - Adult Mental Health - Healthcare - Trauma-Informed Care\nBachelor of Business Administration\nArea of Specialization: - Aviation - Travel and Tourism - Hospitality Management"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Full Publication List",
+    "section": "",
+    "text": "These research papers focus on key international perspectives on homelessness. These two papers examine how systems and communities define homelessness and how that definition differs across countries. We have discussed systemic issues, community perspectives toward homelessness, programs and services available, and potential approaches to reduce homelessness in those countries. We discussed how the community can contribute to this solution. These papers were prepared through a literature review, comparative studies, interviews, qualitative research methods, analysis, and collaboration between me and neuroscientist/clinical social worker/Licensed Independent Clinical Dependency Counselor, Dr. Richard Romaniuk. |\n\n\nRead Full Publication\n\n\n\nRead Full Publication"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "Research Interests\nSome of the research areas I would love to explore in the near future, check it out:\n\nAdult Mental Health\nMental Health Screening and Services with the cancer population.\nHomelessness and Mental Health\nHealthcare Social Work\nTrauma-Informed Care\nSocial Welfare Policy\nInternational Social Work"
+  },
+  {
+    "objectID": "publications.html#overview",
+    "href": "publications.html#overview",
+    "title": "Full Publication List",
+    "section": "",
+    "text": "These research papers focus on key international perspectives on homelessness. These two papers examine how systems and communities define homelessness and how that definition differs across countries. We have discussed systemic issues, community perspectives toward homelessness, programs and services available, and potential approaches to reduce homelessness in those countries. We discussed how the community can contribute to this solution. These papers were prepared through a literature review, comparative studies, interviews, qualitative research methods, analysis, and collaboration between me and neuroscientist/clinical social worker/Licensed Independent Clinical Dependency Counselor, Dr. Richard Romaniuk. |\n\n\nRead Full Publication\n\n\n\nRead Full Publication"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "PranitLanjewar",
+    "section": "",
+    "text": "Coming soon…."
+  },
+  {
+    "objectID": "Journals.html",
+    "href": "Journals.html",
+    "title": "PranitLanjewar",
+    "section": "",
+    "text": "Coming soon….."
   }
 ]
