@@ -1,15 +1,37 @@
-
 project:
   type: website
   output-dir: docs
 
 website:
   title: "PranitLanjewar"
+
+  search:
+    location: navbar
+    type: overlay
+
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "About"
+        menu:
+          - text: "Education and Credentials"
+            href: education.qmd
+          - text: "Download my CV"
+            href: Pranit_Lanjewar_CV.pdf.pdf
+          - text: "Contact"
+            href: "mailto:p.msw24@email.com"
+
+      - text: "Publications"
+        menu:
+          - text: "All Publications"
+            href: publications.qmd
+          - text: "Research Interests"
+            href: research.qmd
+
+      - text: "Blogs"
+        href: blog.qmd
+
+      - text: "Journals"
+        href: Journals.qmd
 
 format:
   html:

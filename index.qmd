@@ -1,6 +1,6 @@
 
 ---
-title: "Pranit Lanjewar"
+title: "Pranit Lanjewar, MSW, LSW"
 subtitle: ""
 image: profile.jpg.jpeg
 
@@ -20,32 +20,20 @@ about:
     - icon: envelope
       text: Email Me
       href: mailto:p.msw24@gmail.com
-
 ---
 
-## Welcome to website!
 
-Hello! I'm Pranit Lanjewar. I am a licensed social worker specialized in adult mental health and trauma informed practice care. Most of my professional experience has been working with homelessness, mental health, healthcare, community practice for change, and social work academia. 
+Hello! I'm Pranit Lanjewar. I am a licensed social worker, specialized in adult mental health and trauma-informed care. Most of my professional experience has involved homelessness, mental health, healthcare, community-based practice for social change, and social work academia.
 
-I aim to pursue Ph.D in the near future and research intentionally in mental health and cancer. I have so many hobbies that take president seasonly such as biking, writing, walking and running, cooking, reading, gaming, being social, doing roadtrips, etc. 
-
-## Education
-
-Masters of Social Work (MSW)
-
-## Publications 
-
-1. [An International Approach to Homelessness – Part 1: The Case of India](https://lekarzwojskowy.wim.mil.pl/An-international-approach-to-homelessness-Part-I-The-case-of-India,204971,0,2.html)
-
-2. [An International Approach to Homelessness – Part 2: Slum Demolition or Upgrading?](https://lekarzwojskowy.wim.mil.pl/An-international-approach-to-homelessness-Part-II-Slums-demolition-or-upgrading-,204972,0,2.html)
+I aim to pursue a Ph.D. in the near future, with a research focus on mental health and cancer. I also have many hobbies that change with the seasons, including biking, writing, walking, running, cooking, reading, gaming, socializing, and going on road trips. 
 
 
-```{r}
-file.create(".nojekyll")
-```
-```{r}
-file.create("docs/.nojekyll")
-```
+
+
+
+
+
+
 
 
 
