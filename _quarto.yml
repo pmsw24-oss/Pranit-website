@@ -17,8 +17,9 @@ website:
             href: education.qmd
           - text: "Download my CV"
             href: Pranit_Lanjewar_CV.pdf.pdf
-          - text: "Contact"
-            href: "mailto:p.msw24@email.com"
+
+      - text: "Contact"
+        href: "https://mail.google.com/mail/?view=cm&to=p.msw24@gmail.com"
 
       - text: "Publications"
         menu:
