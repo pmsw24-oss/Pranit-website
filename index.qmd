@@ -8,15 +8,9 @@ about:
   template: trestles
   image-shape: round
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/yourusername
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/pranit-lanjewar-msw-lsw-a79458252
-    - icon: file-pdf
-      text: Download CV
-      href: Pranit_Lanjewar_CV.pdf.pdf
     - icon: envelope
       text: Email Me
       href: mailto:p.msw24@gmail.com
