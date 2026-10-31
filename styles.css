@@ -471,3 +471,21 @@ html {
     animation: none !important;
   }
 }
+
+/* ==============================
+   CENTERED BLOG IMAGE CAPTIONS
+   ============================== */
+
+/* Center image figures */
+.quarto-figure {
+  text-align: center !important;
+}
+
+/* Center image captions */
+figure figcaption,
+.figure-caption {
+  text-align: center !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
